@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://brit-idea.com/hrbot/';
+$config['base_url'] = 'https://rajsonu315.github.io/hrboat.github.io/';
 
 /*
 |--------------------------------------------------------------------------
